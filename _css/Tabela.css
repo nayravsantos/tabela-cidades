@@ -1,0 +1,54 @@
+table{
+    border-radius: solid 1px black;
+}
+table, tr, td, th{
+    border: solid 1px black;
+}
+tr, td, th{
+    width: 290px;
+}
+th{
+    height: 10px;
+}
+th, td, tr{
+    padding: 15px;
+    text-align: center;
+}
+td{
+    background-color: rgb(194, 103, 111);
+}
+td:hover {
+    background-color: rgb(141, 109, 141);
+}
+th:hover {
+    background-color: rgb(226, 180, 195);
+}
+tr{
+    background-color: rgb(255, 112, 160);
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+    font-style: oblique;
+}
+#manaus{
+    background-color: rgb(243, 226, 233);
+}
+#natal{
+    background-color: rgb(243, 226, 233);
+}
+#palmas{
+    background-color: rgb(243, 226, 233);
+}
+#portoalegre{
+    background-color: rgb(243, 226, 233);
+}
+#portovelho{
+    background-color: rgb(243, 226, 233);
+}
+#recife{
+    background-color: rgb(243, 226, 233);
+}
+#riobranco{
+    background-color: rgb(243, 226, 233);
+}
